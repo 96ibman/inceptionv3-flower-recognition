@@ -138,7 +138,7 @@ Test loss: 0.31772616505622864
 Test accuracy: 0.8812785148620605
 ```
 ## Note
-This model is deployed in s streamlit app in this [repo](https://github.com/96ibman/streamlit-flower-recognition)
+This model is deployed in a streamlit app in this [repo](https://github.com/96ibman/streamlit-flower-recognition)
 
 ## Authors
 - [Ibrahim Nasser](https://github.com/96ibman)
